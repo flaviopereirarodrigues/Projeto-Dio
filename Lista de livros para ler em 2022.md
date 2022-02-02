@@ -1,4 +1,4 @@
-# Projeto Leitura 2022 :book: 
+# Leituras para 2022 :book: 
 
 - Os Axiomas de Zurique escrito por Max Gunther
 - Cem Anos de Solidão é uma obra do escritor colombiano Gabriel García Márquez
